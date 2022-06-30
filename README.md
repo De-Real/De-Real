@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @De-Real
 - 👀 I’m interested in programming, creating something unique;
-- 🌱 I’m currently learning JavaScript(React), C#;
-- I had experience with C++, Python;
+- 🌱 I’m currently learning JavaScript(React);
+- I had experience with C++, Python, c#;
 - 💞️ I’m looking to collaborate on developing most amazing web projects;
 - 📫 How to reach me Senior Front-End Dev or Software Engineer;
 
