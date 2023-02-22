@@ -6,7 +6,7 @@ tasks and look for the best solutions. I am results-oriented, but
 at the same time I prefer the process of development to be 
 enjoyable to people, who work with me
 
-Technology stack: React, JavaScript(ES6+), SCSS, HTML, Redux, React Router, Firebase. 
+Technology stack: React, TypeScript, JavaScript(ES6+), SCSS, HTML, Redux, React Router, Firebase and other. 
 
 
 
